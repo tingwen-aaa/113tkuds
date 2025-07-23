@@ -35,8 +35,3 @@ public class Q6_NightMarketMap {
         }
     }
 }
-
-/*
- * Time Complexity: O(m + 100)
- * 說明：初始化地圖需要 O(100) 時間，填入 m 個座標是 O(m)，最後列印地圖是 O(100)，總時間複雜度為 O(m + 100)，其中 m 為熱門攤位的數量。
- */

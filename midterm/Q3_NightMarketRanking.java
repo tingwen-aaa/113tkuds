@@ -7,7 +7,6 @@ import java.util.Scanner;
  * 說明：使用選擇排序兩層迴圈，最多 n(n-1)/2 次比較。
  */
 
-
 public class Q3_NightMarketRanking {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

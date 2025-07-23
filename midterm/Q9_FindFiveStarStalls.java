@@ -35,8 +35,3 @@ public class Q9_FindFiveStarStalls {
         }
     }
 }
-
-/*
- * Time Complexity: O(n)
- * 說明：程式遍歷所有攤位的評分一次，時間複雜度為 O(n)，其中 n 是攤位的數量。
- */
